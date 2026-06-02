@@ -214,11 +214,6 @@ uvicorn app.main:app --reload
 
 ---
 
-# Capturas del Sistema
-
-<img width="1600" height="738" alt="im1" src="https://github.com/user-attachments/assets/6c624c8c-3980-4145-ba88-31067d3c6f84" />
-
-<img width="1600" height="738" alt="im2" src="https://github.com/user-attachments/assets/ca49a46a-b562-48a4-8a61-5c7a9e4240f3" />
 
 # Prueba de Funcionamiento
 
